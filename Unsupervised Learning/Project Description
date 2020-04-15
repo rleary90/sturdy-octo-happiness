@@ -1,0 +1,40 @@
+For your third capstone, you’ll complete an unsupervised learning project. You can choose your own research question or choose from one below.
+
+How do you achieve the following using clustering techniques?
+
+Netflix wants to identify similar movies based on movie characteristics.
+A company wants to segment its customers.
+Your startup is creating an innovative new email software. How can you help them to create an effective spam filter?
+Your chief marketing officer wants to know how much website traffic is due to spam and bots versus actual customers. How can you group the traffic?
+Your spouse loves fantasy baseball and has a few favorite players. How can you help them to choose who to have on their team?
+Security team in a bank wants to identify fraudulent transactional activities.
+Next steps:
+
+Go out and find a dataset of interest. It could be one that helps you work on one of our recommended research questions, or any other dataset that addresses an unsupervised learning question of your own.
+
+Explore the data. Get to know the data. Spend a lot of time going over its quirks and peccadilloes. You should understand how it was gathered, what's in it, and what the variables look like.
+
+You should try several different approaches and really work to tune a variety of models before choosing what you consider to be the best performer.
+
+Things to keep in mind: how do clustering and modeling compare? What are the advantages of each? Why would you want to use one over the other?
+
+This will ultimately include the following deliverables:
+
+A Jupyter notebook that tells a compelling story about your data (to be submitted at the end of this checkpoint).
+A 15 to 30 minute presentation of your findings. You'll need to produce a deck and present it to the Thinkful community.
+Conduct the analysis in Jupyter. Provide a complete research report using the framework introduced in the previous module. The report should include compelling visualizations and actionable insights, telling the story to your intended audience. Walk through the analysis using clean, reproducible code. Include plenty of notes and comments to guide others through your thinking.
+
+Rather than create a deck in a presentation tool like PowerPoint or Google Slides, we will use Jupyter’s built-in slide deck capabilities. This cuts down on the time-consuming and error-prone process of copying-and-pasting into an external program. The presentation is also fully reproducible.
+
+On the day of your presentation, an evaluator from the Thinkful educator team will introduce you, and then you'll give your presentation. Afterward, the evaluator will ask you follow up questions and will grade your performance on your presentation. Members of the audience will also be encouraged to ask follow up questions.
+
+Be prepared to talk about:
+
+Your end-user and the value your project provides to them.
+Quantifiable results based on the research you’ve conducted.
+The visuals you chose and what they represent for your research.
+Next steps you'd take to expand on your work.
+A specified research question your model addresses.
+How you chose your model specification and what alternatives you compared it to.
+The practical uses of your model for an audience of interest.
+Any weak points or shortcomings of your model.

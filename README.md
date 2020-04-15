@@ -1,9 +1,9 @@
-![](Images/9a08aaa0-ce35-443a-9aae-58e39c3956f4.JPG)
-
 # Data Science Portfolio
 Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of jupyter Notebooks.
 
 For a more visually pleasant experience for browsing the portfolio, check out [rleary90.github.io](https://rleary90.github.io/)
+
+![](Images/9a08aaa0-ce35-443a-9aae-58e39c3956f4.JPG)
 
 ## Contents
 
